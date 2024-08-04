@@ -21,3 +21,16 @@
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## Profiles
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-sathya-a-r-724920255/)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ps_6)
+- [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/pranavsathyaar)
+- [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ps_6)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/joessix)
+
+## Contact
+- **Resume:** ![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=resume&logoColor=white) [View Resume](https://drive.google.com/file/d/1KrxzAGeWryshft9OrZsoIfVMcguTkeQs/view?usp=drive_link)
+- ![Phone](https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=phone&logoColor=white) +91-739 743 8357
+- ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [pranavsathyaar@gmail.com](mailto:pranavsathyaar@gmail.com)
